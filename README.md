@@ -1,6 +1,8 @@
-- 👋 Hello/Hallo
+- 👋 Heya/Halløj
 
 - Don't ask what maffing is
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 <!---
 Masahjor/Masahjor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
