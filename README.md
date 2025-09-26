@@ -2,6 +2,8 @@
 
 - Don't ask what maffing is
 
+- I BELIEVE in MORPHINE ■ I REJECT GOD ■ Don't ask what maffing is
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masahjor&theme=tokyonight)
 
 <!---
